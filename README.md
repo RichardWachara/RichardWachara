@@ -12,7 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=LUHN_IMPLEMENTATION)](https://github.com/RichardWachara/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWachara&layout=compact)](https://github.com/RichardWachara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWachara&layout=compact&hide_progress=true)](https://github.com/RichardWachara/github-readme-stats)
 <!--
 **RichardWachara/RichardWachara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
