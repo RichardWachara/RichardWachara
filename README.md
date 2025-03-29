@@ -6,7 +6,8 @@
 - 📫 How to reach me on twitter @ric_on_tech
 - ⚡ Fun fact: The Carbarnak Cyber Attack costed the Financial Industry in Europe and Asia an estimate of $1B. Goes out the show how important security.
 
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardWachara&show_icons=true)](https://github.com/RichardWachara/github-readme-stats)
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardWachara&show_icons=true&theme=dracula)](https://github.com/RichardWachara/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=github-readme-stats)](https://github.com/RichardWachara/github-readme-stats)
 <!--
 **RichardWachara/RichardWachara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
