@@ -10,6 +10,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=django_backend)](https://github.com/RichardWachara/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=React_frontend)](https://github.com/RichardWachara/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=LUHN_IMPLEMENTATION)](https://github.com/RichardWachara/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWachara)](https://github.com/RichardWachara/github-readme-stats)
 <!--
 **RichardWachara/RichardWachara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
