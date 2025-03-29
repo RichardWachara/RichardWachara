@@ -12,6 +12,7 @@
 <a href="https://github.com/RichardWachara/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardWachara&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=django_backend)](https://github.com/RichardWachara/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=React_frontend)](https://github.com/RichardWachara/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=LUHN_IMPLEMENTATION)](https://github.com/RichardWachara/github-readme-stats)
