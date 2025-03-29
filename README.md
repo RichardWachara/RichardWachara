@@ -1,5 +1,4 @@
 ## Hi there 👋
-./header.png
 - 🌱 I’m currently learning cybersecurity and to be specific Offensive Security.
 - 👯 I’m looking to collaborate to the industry with revolutionally ideas and a unique way of approaching learning and internet security.
 - 💬 Ask me about Offensive Security, Web Penetration Testing, Malware development and Analysis and I will be happy to help.
