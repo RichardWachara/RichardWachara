@@ -7,10 +7,10 @@
 - ⚡ Fun fact: The Carbarnak Cyber Attack costed the Financial Industry in Europe and Asia an estimate of $1B. Goes out the show how important security.
 
 <a href="https://github.com/RichardWachara/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RichardWachara" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/RichardWachara/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RichardWachara&layout=compact&hide_progress=true&langs_count=8&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RichardWachara&repo=convoychat" />
 </a>
 
 <!--
